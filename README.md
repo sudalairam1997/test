@@ -21,7 +21,7 @@ This project implements a simple string calculator function `add(numbers: str) -
 ## Installation
 Clone the repository and install dependencies:
 ```sh
- git clone https://github.com/your-username/string-calculator.git
+ git clone https://github.com/sudalairam1997/test.git
 ```
 
 ## Running the Code
